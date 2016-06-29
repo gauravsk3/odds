@@ -1,0 +1,14 @@
+Package: odds
+Type: Package
+Title: Functions for Gambling
+Version: 0.1
+Date: 2016-06-29
+Author: Gaurav Kumar <gaurav.s.kumar3@gmail.com>
+Description: Functions for working with fractional and decimal odds
+License: LGPL
+LazyData: TRUE
+Imports:
+    MASS
+Suggests:
+    testthat
+RoxygenNote: 5.0.1
